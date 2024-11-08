@@ -1,0 +1,212 @@
+body{
+    background-color: rgb(29, 11, 29);
+}
+
+
+header{
+
+display: flex;
+gap: 40%;
+color: rgb(248, 245, 252);
+background-color: rgb(0, 0, 0);
+font-family: 'Times New Roman', Times, serif;
+font-size:25px;
+
+}
+h4{
+    color: aliceblue;
+}
+h4:hover{
+    color: rgb(63, 201, 201);  
+}
+header:hover{
+        color: rgb(63, 201, 201);
+}
+#foto{
+width: 400px;
+height: 400px;
+border-radius: 190px;
+margin-top: -90px;
+margin-left: 240px;
+}
+#sobreMim{
+margin-left: 1300px;
+margin-top: 90px;
+font-family: 'Times New Roman', Times, serif;
+text-align: justify;
+color: aliceblue;
+font-size:30px;
+
+}
+#sobreMim:hover{
+color: rgb(63, 201, 201);
+
+}
+#textoMim{
+margin-left: 30%;
+text-align: justify;
+font-family: 'Times New Roman', Times, serif;
+color: aliceblue;
+margin-left: 900px;
+font-size:30px;
+
+}
+#textoMim:hover{
+
+    color: rgb(63, 201, 201);
+
+}
+#textoproj{
+margin-left: 40%;
+color: aliceblue;
+margin-top: 40px;
+}
+#textoproj:hover{
+
+    color: rgb(63, 201, 201);
+}
+#imgs1{
+
+margin-left: 150px;
+width: 300px;
+height: 300px;
+margin-left: 150px;
+
+
+
+}
+#sobreProjeto{
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    color: aliceblue;
+    font-size: 25px;
+}
+#sobreProjeto:hover{
+
+    color: rgb(63, 201, 201);
+
+
+}
+#tecnologias{
+  margin-top: 50px;
+    margin-left: 40%;
+    font-family: 'Times New Roman', Times, serif;
+    color: aliceblue;
+    font-size: 30px;
+}
+
+#tecnologias:hover{
+    color: rgb(63, 201, 201);
+
+}
+
+footer{
+
+background-color: rgb(107, 214, 200);
+color: rgb(33, 58, 78);
+}
+footer:hover{
+
+    color: rgb(63, 201, 201);
+}
+    #html{
+    margin-left: 40%;
+    
+    
+    }
+    #logoo{
+    
+    margin-left: 20px;
+    font-size: 15px;
+    color: aliceblue;
+    }
+    #texto-nome{
+     height: 5px;
+     font-size: 30px;
+     margin-top: 20px;
+    width: 600px;
+    color: rgb(250, 250, 250);
+
+    }
+    #texto-nome:hover{
+        color: rgb(63, 201, 201);
+    }
+    #git{
+        width: 120px;
+        height: 85px;
+    }
+    #tel{
+        width: 120px;
+        height: 85px;
+
+
+    }
+    #what{
+
+        width: 120px;
+        height: 85px;
+
+    }
+    #logo{
+        margin-left: 0px;
+        margin-top: 15px;
+        width: 500px;
+        
+        }
+a{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+}
+#imgg{
+display: flex;
+
+
+}
+#js{
+
+    width: 200px;
+    height: 200px;
+    margin-left: 400px;
+
+}
+#tex-js{
+color: aliceblue;
+font-size:35px;
+margin-left: 420px;
+    
+    }
+    #tex-js:hover{
+        color: rgb(63, 201, 201);
+      
+        }
+#html{
+  
+    width: 200px;
+    height: 200px;
+}
+#tex-html{
+    margin-left: 150px;
+    font-size:35px;
+    color: aliceblue;
+    }
+    #tex-html:hover{
+        color: rgb(63, 201, 201);
+      
+        }
+#css{
+
+margin-left: 200px;
+width: 200px;
+height: 200px;
+}
+#tex-css{
+margin-left: 250px;
+font-size:35px;
+color: aliceblue;
+}
+#tex-css:hover{
+    color: rgb(63, 201, 201);
+  
+    }
+    
